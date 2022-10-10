@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="org.fasttrack.features.MyAccountTest" skipped="0" tests="1" time="18.46" timestamp="2022-09-19 03:26:20"><testcase classname="org.fasttrack.features.MyAccountTest" name="Change password"><failure message="expected same:&lt; account details changed successfully. &gt; was not:&lt;account details changed successfully.&gt;" type="java.lang.AssertionError">expected same:&lt; account details changed successfully. &gt; was not:&lt;account details changed successfully.&gt;</failure><system-err>expected same:&lt; account details changed successfully. &gt; was not:&lt;account details changed successfully.&gt;&#13;
+org.fasttrack.steps.MyAccountSteps.checkPasswordMessageConfirmation(MyAccountSteps.java:40)&#13;
+org.fasttrack.features.MyAccountTest.changePassword(MyAccountTest.java:25)&#13;
+</system-err></testcase></testsuite>
